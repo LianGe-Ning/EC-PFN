@@ -1,0 +1,8 @@
+
+train:  ./mydata/images/train/
+val:  ./mydata/images/val/
+test: ./mydata/images/test/
+
+
+nc: 4
+names: ['B_line', 'D_line', 'area', 'white_point']
